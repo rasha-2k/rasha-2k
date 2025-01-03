@@ -9,7 +9,7 @@ I am a software engineering student with a strong interest in quality assurance 
 - **Testing & QA Tools**: Postman (API testing), Selenium, JUnit
 - **Other Technologies**: Linux, RESTful APIs, Unity, Agile methodologies
 
-## 🌐 Socials:
+## 🌐 Links:
 - **LinkedIn**: [Rasha Alsaleh](https://linkedin.com/in/rasha-alsaleh)
 - **My Website**: [Portfolio](https://rashaalsaleh.com/)
 
