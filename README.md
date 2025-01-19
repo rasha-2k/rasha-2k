@@ -1,4 +1,4 @@
-# 🚀 About Me:
+## 🚀 About Me:
 I am a software engineering student with a strong interest in quality assurance and software testing. My passion lies in ensuring the reliability, functionality, and performance of applications through meticulous manual and automated testing processes. I am adept at writing test cases, identifying defects, and validating APIs, striving to deliver high-quality, user-centric software solutions.<br><br>Currently, I am expanding my knowledge in backend development, with a focus on designing APIs and working with MySQL databases. I am committed to continuous improvement and exploring tools and techniques that enhance software quality and performance.
 
 ## 🛠️ Skills & Technologies
