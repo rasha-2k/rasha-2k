@@ -1,5 +1,5 @@
-<a href="https://github.com/rasha-2k" align="center"><img src="https://github.com/rasha-2k.png" alt="@rasha-2k" title="@rasha-2k" width="200px" height="200px"  style="border-radius: 50%;"></a>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CDBF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rasha+Alsaleh;I'm+a+Software+Engineer;Let%E2%80%99s+build+something+together!)](https://git.io/typing-svg)
+<!-- <a href="https://github.com/rasha-2k" align="center"><img src="https://github.com/rasha-2k.png" alt="@rasha-2k" title="@rasha-2k" width="200px" height="200px"  style="border-radius: 50%;"></a>-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CDBF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Rasha+Alsaleh;Welcome+To+My+Profile+🔥)](https://git.io/typing-svg)
 
 ## 🚀 About Me:
 I am a software engineering student passionate about QA/QC, software testing, and DevOps. I specialize in manual and automated testing, writing test cases, identifying defects, and API validation to ensure software reliability and performance. I also have experience in backend development, focusing on API design.<br><br>Currently, I am exploring DevOps practices, including automation, CI/CD, and infrastructure management, to streamline software delivery. I am committed to continuous learning, always seeking new tools and methodologies to enhance software quality, performance, and scalability while bridging the gap between development and operations.
